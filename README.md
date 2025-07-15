@@ -9,7 +9,7 @@
 ## Dataset Used
 
 The **Pima Indians Diabetes Dataset** was used for training and evaluation.
-
+https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 ---
 
 ## Machine Learning Models
